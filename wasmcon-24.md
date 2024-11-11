@@ -6,7 +6,7 @@
 
 * wgpu - [Follow instructions from the windowing-support branch here](https://github.com/wasi-gfx/wgpu/tree/windowing-support/examples-wasi)
 * Bevy - Run [this wasm](https://rlt-playground.azureedge.net/public/breakout.wasm) with [graphtime](http://github.com/wasi-gfx/graphtime) on your machine
-* ONNX - Run the following command in graphtime: `cargo run --release ./onnx_basic_test_component.wasm` - [wasm file available here](http://rlt-playground.azureedge.net/public/onnx_basic_test_component.wasm)
+* ONNX - Run the following command in graphtime: `cargo run --release ./onnx_basic_test_component.wasm` - [wasm file available here](https://rlt-playground.azureedge.net/public/onnx_basic_test_component.wasm)
 * Renderlet - open-source examples are [available here](https://github.com/renderlet/wander/), for access to the 3D buildings demo, please contact renderlet directly.
 
 ## Get Involved
